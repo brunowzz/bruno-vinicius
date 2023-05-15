@@ -1,6 +1,5 @@
 <h1 align="center">Bruno Vinícius</h1>
 
-<img src="https://www.acheicampos.com.br/uploads/advertiser/default_anunciante_thumbnail.png" alt="Descrição da imagem">
 
 > 🔎 
 > Este projeto permite criar uma página pessoal informativa e interativa, compartilhando informações sobre mim, minhas características, habilidades e preferências. A estrutura semântica e os elementos interativos melhoram a experiência do usuário e fornecem uma base sólida para a construção de uma presença online personalizada.
